@@ -10,6 +10,9 @@ public Bat ref(){
 public void A(){
 	System.out.println("A");
 }
+public void C(){
+       System.out.println("C");	
+}
 public void B(){
 	System.out.println("A");
 }
